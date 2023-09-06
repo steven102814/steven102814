@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, my name is Steven Sanchez I am a senior at San Diego State University. 
+
+I am currently interested in AI, Machine Learning, and Embedded Systems. 
+
+In the future, I look forward to becoming a software engineer. 
 
 <!--
 **steven102814/steven102814** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
